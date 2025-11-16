@@ -1,0 +1,301 @@
+{
+  "version": 0.1,
+  "files": {
+    "components/Navbar/Navbar.tsx": {
+      "scopes": {
+        "3/0/init/body/0/argument/1/1/1": {
+          "type": "element",
+          "hash": "37d042a235ba2fa92bbaa99654c7d4e4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Fast News"
+        },
+        "3/0/init/body/0/argument/1/3": {
+          "type": "element",
+          "hash": "05f154bfcde5e0c6855d4b4d397e7951",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:LocaleSwitcher></element:LocaleSwitcher>;"
+        },
+        "3/0/init/body/0/argument/1/5/1": {
+          "type": "element",
+          "hash": "75d34472ed5d38b88c708cb01ab46623",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:House></element:House> HOME"
+        },
+        "3/0/init/body/0/argument/1/5/3": {
+          "type": "element",
+          "hash": "94fbeb60ed70c74a6d3dfde05f7a4e23",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:Newspaper></element:Newspaper>NEWS"
+        },
+        "3/0/init/body/0/argument/1/5/5": {
+          "type": "element",
+          "hash": "7e7d03f1ddafe68b842c132f1e5b2834",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "ABOUT"
+        },
+        "3/0/init/body/0/argument/1/5/7": {
+          "type": "element",
+          "hash": "7b58ef444a5b57afb0c6bccc63501157",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "CONTACT"
+        },
+        "3/0/init/body/0/argument/1/5/9": {
+          "type": "element",
+          "hash": "33969fa66074c28919a7f0200f64d10e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "LOGIN"
+        }
+      }
+    },
+    "components/footer/footer.tsx": {
+      "scopes": {
+        "2/0/init/body/0/argument/3/11/1": {
+          "type": "element",
+          "hash": "204411a0759870f5d42594255d781989",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Follow Us"
+        },
+        "2/0/init/body/0/argument/3/3/1": {
+          "type": "element",
+          "hash": "37d042a235ba2fa92bbaa99654c7d4e4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Fast News"
+        },
+        "2/0/init/body/0/argument/3/3/3": {
+          "type": "element",
+          "hash": "6d7a27785d9203a28ddd447f81b8ae94",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your trusted source for breaking news, analysis, and insights from around the world. Stay informed. Stay ahead."
+        },
+        "2/0/init/body/0/argument/3/7/1": {
+          "type": "element",
+          "hash": "08f01a139568423a460c7d664b2be95e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Quick Links"
+        },
+        "2/0/init/body/0/argument/3/7/3/1/0": {
+          "type": "element",
+          "hash": "104a3db3b671c04e167eafbe21e57881",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Home"
+        },
+        "2/0/init/body/0/argument/3/7/3/3/0": {
+          "type": "element",
+          "hash": "591116d7c70944a65821b8ac01f30e6a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "World"
+        },
+        "2/0/init/body/0/argument/3/7/3/5/0": {
+          "type": "element",
+          "hash": "7682c7966c6e718836388561e7e68cab",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Business"
+        },
+        "2/0/init/body/0/argument/3/7/3/7/0": {
+          "type": "element",
+          "hash": "9a471f95945421960faa376bda8b61c5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sports"
+        },
+        "2/0/init/body/0/argument/3/7/3/9/0": {
+          "type": "element",
+          "hash": "694755ad06c9b0d9bfcd78e1610670b8",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Technology"
+        },
+        "2/0/init/body/0/argument/7": {
+          "type": "element",
+          "hash": "6496b7edb73464a6cf4b9db809441733",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "© <function:Date.getFullYear/> Fast News. All rights reserved."
+        }
+      }
+    },
+    "components/joinus/Joinus.tsx": {
+      "scopes": {
+        "1/0/init/body/0/argument/1/13": {
+          "type": "element",
+          "hash": "9f765f53b8ef4d5e680f612b8e725613",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "By subscribing, you agree to receive updates from Fast News. You can unsubscribe anytime."
+        },
+        "1/0/init/body/0/argument/1/3": {
+          "type": "element",
+          "hash": "5235be028a5aac21ec7b56739f97c63c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join the <element:span>Fast News</element:span> Community"
+        },
+        "1/0/init/body/0/argument/1/5": {
+          "type": "element",
+          "hash": "7938b2ae3af04170df14e8e49508dcd2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Stay ahead of the headlines! Subscribe to our newsletter and never miss the latest stories, breaking news, or insights from around the world."
+        },
+        "1/0/init/body/0/argument/1/9/1-placeholder": {
+          "type": "attribute",
+          "hash": "9bc008365ebe3e404e241c8ca876f56e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter your email address"
+        },
+        "1/0/init/body/0/argument/1/9/3": {
+          "type": "element",
+          "hash": "af5b442b2a4df9c2d8f5e9239e7dc488",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Subscribe"
+        }
+      }
+    },
+    "components/newscard/Newscard.tsx": {
+      "scopes": {
+        "1/0/init/body/1/argument/1/expression/right-alt": {
+          "type": "attribute",
+          "hash": "b9ce44245f612c9670d011756b4bb165",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "news"
+        },
+        "1/0/init/body/1/argument/7": {
+          "type": "element",
+          "hash": "5bbe31f769062db7cfb00936dcc1bda2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Click to read more...→"
+        }
+      }
+    },
+    "pages/News/NewsPage.tsx": {
+      "scopes": {
+        "3/0/init/body/4/consequent/0/argument": {
+          "type": "element",
+          "hash": "e36e131a27705ddcd73d2c92f633607c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Loading news..."
+        },
+        "3/0/init/body/5/argument/1/expression/consequent": {
+          "type": "element",
+          "hash": "40611af7de5e438d80cca51177ee71a6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "No news available."
+        }
+      }
+    },
+    "pages/homenews/Home.tsx": {
+      "scopes": {
+        "1/0/init/body/0/argument/1/1": {
+          "type": "element",
+          "hash": "14d4b1280dca59cff273df09cafa42d4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome to Fast News"
+        },
+        "1/0/init/body/0/argument/1/3": {
+          "type": "element",
+          "hash": "f7fc64effe7f97ab9723400996e77194",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Bringing you the latest updates from around the world 🌍"
+        },
+        "1/0/init/body/0/argument/3/1/1-alt": {
+          "type": "attribute",
+          "hash": "e5f23143361112bacab5d1831780d49c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join Fast News"
+        },
+        "1/0/init/body/0/argument/3/1/3": {
+          "type": "element",
+          "hash": "99503d3653358487eb3ad4cc5a51d057",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Delhi blast LIVE updates: Association of Indian Universities suspends Al-Falah's membership; Professor, cardiology student detained"
+        },
+        "1/0/init/body/0/argument/3/1/5": {
+          "type": "element",
+          "hash": "6de69b717f31288519d49781851e7652",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "A college professor and medical student, both from Jammu and Kashmir, were detained in Uttar Pradesh's Hapur and Kanpur, respectively, in connection with the November 10 Delhi blast, officials say"
+        },
+        "1/0/init/body/0/argument/3/3/1-alt": {
+          "type": "attribute",
+          "hash": "e5f23143361112bacab5d1831780d49c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join Fast News"
+        },
+        "1/0/init/body/0/argument/3/3/3": {
+          "type": "element",
+          "hash": "99503d3653358487eb3ad4cc5a51d057",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Delhi blast LIVE updates: Association of Indian Universities suspends Al-Falah's membership; Professor, cardiology student detained"
+        },
+        "1/0/init/body/0/argument/3/3/5": {
+          "type": "element",
+          "hash": "6de69b717f31288519d49781851e7652",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "A college professor and medical student, both from Jammu and Kashmir, were detained in Uttar Pradesh's Hapur and Kanpur, respectively, in connection with the November 10 Delhi blast, officials say"
+        }
+      }
+    }
+  }
+}
