@@ -9,7 +9,7 @@ const withLingo = lingoCompiler.vite({
   sourceRoot: "src",
   lingoDir: "lingo",
   sourceLocale: "en",
-  targetLocales: ["es"],
+  targetLocales: ["es","es","hi","fr","de","ar", "zh", "ru"],
   rsc: false,
   useDirective: false,
   debug: false,
