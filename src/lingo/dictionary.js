@@ -230,6 +230,36 @@ export default {
         },
       },
     },
+    "components/homeNewsCard.tsx": {
+      entries: {
+        "1/0/init/body/0/argument/1-alt": {
+          content: {
+            ar: "أخبار",
+            de: "nachrichten",
+            en: "news",
+            es: "noticias",
+            fr: "actualités",
+            hi: "समाचार",
+            ru: "новости",
+            zh: "新闻",
+          },
+          hash: "b9ce44245f612c9670d011756b4bb165",
+        },
+        "1/0/init/body/0/argument/7": {
+          content: {
+            ar: "اقرأ المزيد ←",
+            de: "Mehr lesen →",
+            en: "Read more →",
+            es: "Leer más →",
+            fr: "Lire la suite →",
+            hi: "और पढ़ें →",
+            ru: "Читать далее →",
+            zh: "阅读更多 →",
+          },
+          hash: "5f1665f187d65ce2ae7635bbb29670d8",
+        },
+      },
+    },
     "components/joinus/Joinus.tsx": {
       entries: {
         "1/0/init/body/0/argument/1/13": {
@@ -568,6 +598,32 @@ export default {
             zh: "一名大学教授和一名医学生，均来自查谟和克什米尔，分别在北方邦的哈普尔和坎普尔被拘留，与 11 月 10 日德里爆炸案有关，官员称。",
           },
           hash: "6de69b717f31288519d49781851e7652",
+        },
+        "3/0/init/body/0/argument/3/1": {
+          content: {
+            ar: "مرحبًا بك في أخبار سريعة",
+            de: "Willkommen bei Fast News",
+            en: "Welcome to Fast News",
+            es: "Bienvenido a Noticias Rápidas",
+            fr: "Bienvenue sur Fast News",
+            hi: "फास्ट न्यूज़ में आपका स्वागत है",
+            ru: 'Добро пожаловать в "Быстрые новости"',
+            zh: "欢迎来到快讯",
+          },
+          hash: "14d4b1280dca59cff273df09cafa42d4",
+        },
+        "3/0/init/body/0/argument/3/3": {
+          content: {
+            ar: "نقدم لك آخر التحديثات من جميع أنحاء العالم 🌍",
+            de: "Wir bringen Ihnen die neuesten Updates aus der ganzen Welt 🌍",
+            en: "Bringing you the latest updates from around the world 🌍",
+            es: "Trayéndote las últimas actualizaciones de todo el mundo 🌍",
+            fr: "Vous apporte les dernières actualités du monde entier 🌍",
+            hi: "दुनिया भर से नवीनतम अपडेट आपके लिए लाते हुए 🌍",
+            ru: "Мы приносим вам последние новости со всего мира 🌍",
+            zh: "为您带来来自世界各地的最新动态 🌍",
+          },
+          hash: "178e9a5b668a979e7b722ef7d4de2d01",
         },
       },
     },

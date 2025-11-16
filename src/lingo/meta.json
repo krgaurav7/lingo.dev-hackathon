@@ -145,6 +145,26 @@
         }
       }
     },
+    "components/homeNewsCard.tsx": {
+      "scopes": {
+        "1/0/init/body/0/argument/1-alt": {
+          "type": "attribute",
+          "hash": "b9ce44245f612c9670d011756b4bb165",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "news"
+        },
+        "1/0/init/body/0/argument/7": {
+          "type": "element",
+          "hash": "5f1665f187d65ce2ae7635bbb29670d8",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Read more →"
+        }
+      }
+    },
     "components/joinus/Joinus.tsx": {
       "scopes": {
         "1/0/init/body/0/argument/1/13": {
@@ -358,6 +378,22 @@
           "skip": false,
           "overrides": {},
           "content": "A college professor and medical student, both from Jammu and Kashmir, were detained in Uttar Pradesh's Hapur and Kanpur, respectively, in connection with the November 10 Delhi blast, officials say"
+        },
+        "3/0/init/body/0/argument/3/1": {
+          "type": "element",
+          "hash": "14d4b1280dca59cff273df09cafa42d4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome to Fast News"
+        },
+        "3/0/init/body/0/argument/3/3": {
+          "type": "element",
+          "hash": "178e9a5b668a979e7b722ef7d4de2d01",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Bringing you the latest updates from around the world 🌍"
         }
       }
     }
