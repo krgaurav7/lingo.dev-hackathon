@@ -199,6 +199,22 @@
           "overrides": {},
           "content": "news"
         },
+        "1/0/init/body/1/argument/13": {
+          "type": "element",
+          "hash": "fad1f62e5d66faa7d1a070450ad86c6a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Read more →"
+        },
+        "1/0/init/body/1/argument/3/expression/right-alt": {
+          "type": "attribute",
+          "hash": "b9ce44245f612c9670d011756b4bb165",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "news"
+        },
         "1/0/init/body/1/argument/7": {
           "type": "element",
           "hash": "5bbe31f769062db7cfb00936dcc1bda2",
@@ -211,6 +227,46 @@
     },
     "pages/News/NewsPage.tsx": {
       "scopes": {
+        "3/0/init/body/10/argument/1": {
+          "type": "element",
+          "hash": "1e8193fbc1f898d7240633dfc08471c6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Blockchain News"
+        },
+        "3/0/init/body/10/argument/3/expression/consequent": {
+          "type": "element",
+          "hash": "40611af7de5e438d80cca51177ee71a6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "No news available."
+        },
+        "3/0/init/body/10/argument/7/1": {
+          "type": "element",
+          "hash": "7a964e3af458d605747c2d3c0cff4a4b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Previous"
+        },
+        "3/0/init/body/10/argument/7/3": {
+          "type": "element",
+          "hash": "470d0a128348900725399e7f181f4b98",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Page {page} / <function:Math.ceil/>"
+        },
+        "3/0/init/body/10/argument/7/5": {
+          "type": "element",
+          "hash": "f6be008fc92d3561e98af609de348805",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Next"
+        },
         "3/0/init/body/4/consequent/0/argument": {
           "type": "element",
           "hash": "e36e131a27705ddcd73d2c92f633607c",
@@ -226,6 +282,14 @@
           "skip": false,
           "overrides": {},
           "content": "No news available."
+        },
+        "3/0/init/body/6/consequent/0/argument": {
+          "type": "element",
+          "hash": "e36e131a27705ddcd73d2c92f633607c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Loading news..."
         }
       }
     },

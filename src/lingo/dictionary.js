@@ -314,6 +314,32 @@ export default {
           },
           hash: "b9ce44245f612c9670d011756b4bb165",
         },
+        "1/0/init/body/1/argument/13": {
+          content: {
+            ar: "اقرأ المزيد ←",
+            de: "Mehr lesen →",
+            en: "Read more →",
+            es: "Leer más →",
+            fr: "Lire plus →",
+            hi: "और पढ़ें →",
+            ru: "Читать далее →",
+            zh: "阅读更多 →",
+          },
+          hash: "fad1f62e5d66faa7d1a070450ad86c6a",
+        },
+        "1/0/init/body/1/argument/3/expression/right-alt": {
+          content: {
+            ar: "أخبار",
+            de: "nachrichten",
+            en: "news",
+            es: "noticias",
+            fr: "actualités",
+            hi: "समाचार",
+            ru: "новости",
+            zh: "新闻",
+          },
+          hash: "b9ce44245f612c9670d011756b4bb165",
+        },
         "1/0/init/body/1/argument/7": {
           content: {
             ar: "انقر لقراءة المزيد...←",
@@ -331,6 +357,71 @@ export default {
     },
     "pages/News/NewsPage.tsx": {
       entries: {
+        "3/0/init/body/10/argument/1": {
+          content: {
+            ar: "أخبار البلوكتشين",
+            de: "Blockchain-Neuigkeiten",
+            en: "Blockchain News",
+            es: "Noticias de blockchain",
+            fr: "Actualités blockchain",
+            hi: "ब्लॉकचेन समाचार",
+            ru: "Новости блокчейна",
+            zh: "区块链新闻",
+          },
+          hash: "1e8193fbc1f898d7240633dfc08471c6",
+        },
+        "3/0/init/body/10/argument/3/expression/consequent": {
+          content: {
+            ar: "لا توجد أخبار متاحة.",
+            de: "Keine Neuigkeiten verfügbar.",
+            en: "No news available.",
+            es: "No hay noticias disponibles.",
+            fr: "Aucune actualité disponible.",
+            hi: "कोई समाचार उपलब्ध नहीं है।",
+            ru: "Нет доступных новостей.",
+            zh: "暂无新闻。",
+          },
+          hash: "40611af7de5e438d80cca51177ee71a6",
+        },
+        "3/0/init/body/10/argument/7/1": {
+          content: {
+            ar: "السابق",
+            de: "Zurück",
+            en: "Previous",
+            es: "Anterior",
+            fr: "Précédent",
+            hi: "पिछला",
+            ru: "Предыдущая",
+            zh: "上一页",
+          },
+          hash: "7a964e3af458d605747c2d3c0cff4a4b",
+        },
+        "3/0/init/body/10/argument/7/3": {
+          content: {
+            ar: "الصفحة {page} / <function:Math.ceil/>",
+            de: "Seite {page} / <function:Math.ceil/>",
+            en: "Page {page} / <function:Math.ceil/>",
+            es: "Página {page} / <function:Math.ceil/>",
+            fr: "Page {page} / <function:Math.ceil/>",
+            hi: "पेज {page} / <function:Math.ceil/>",
+            ru: "Страница {page} / <function:Math.ceil/>",
+            zh: "第 {page} 页 / <function:Math.ceil/>",
+          },
+          hash: "470d0a128348900725399e7f181f4b98",
+        },
+        "3/0/init/body/10/argument/7/5": {
+          content: {
+            ar: "التالي",
+            de: "Weiter",
+            en: "Next",
+            es: "Siguiente",
+            fr: "Suivant",
+            hi: "अगला",
+            ru: "Следующая",
+            zh: "下一页",
+          },
+          hash: "f6be008fc92d3561e98af609de348805",
+        },
         "3/0/init/body/4/consequent/0/argument": {
           content: {
             ar: "جاري تحميل الأخبار...",
@@ -347,7 +438,7 @@ export default {
         "3/0/init/body/5/argument/1/expression/consequent": {
           content: {
             ar: "لا توجد أخبار متاحة.",
-            de: "Keine Nachrichten verfügbar.",
+            de: "Keine Neuigkeiten verfügbar.",
             en: "No news available.",
             es: "No hay noticias disponibles.",
             fr: "Aucune actualité disponible.",
@@ -356,6 +447,19 @@ export default {
             zh: "暂无新闻。",
           },
           hash: "40611af7de5e438d80cca51177ee71a6",
+        },
+        "3/0/init/body/6/consequent/0/argument": {
+          content: {
+            ar: "جاري تحميل الأخبار...",
+            de: "Nachrichten werden geladen...",
+            en: "Loading news...",
+            es: "Cargando noticias...",
+            fr: "Chargement des actualités...",
+            hi: "समाचार लोड हो रहा है...",
+            ru: "Загрузка новостей...",
+            zh: "新闻加载中...",
+          },
+          hash: "e36e131a27705ddcd73d2c92f633607c",
         },
       },
     },

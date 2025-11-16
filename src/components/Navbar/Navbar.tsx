@@ -14,7 +14,9 @@ const Navbar: React.FC = () => {
         </div>
 
         <div className="flex justify-end p-4">
-          <LocaleSwitcher locales={[
+          <LocaleSwitcher
+          className="bg-gray-800"
+           locales={[
               "en",
               "es",
               "hi",
@@ -23,7 +25,7 @@ const Navbar: React.FC = () => {
               "ar", 
               "zh", 
               "ru"
-             ]} />;
+             ]} />
         </div>
 
         <div id="nav-links" className="flex space-x-6 items-center ">
