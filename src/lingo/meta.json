@@ -230,6 +230,174 @@
           "skip": false,
           "overrides": {},
           "content": "© <function:Date.getFullYear/> Fast News. All rights reserved."
+        },
+        "2/0/init/body/1/argument/11/1/1/1": {
+          "type": "element",
+          "hash": "b5980be3c61ba25e2831c0bdddb0c0bb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "© <function:Date.getFullYear/> Fast News. All rights reserved."
+        },
+        "2/0/init/body/1/argument/11/1/1/3/1": {
+          "type": "element",
+          "hash": "7459744a63ef8af4e517a09024bd7c08",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Privacy Policy"
+        },
+        "2/0/init/body/1/argument/11/1/1/3/3": {
+          "type": "element",
+          "hash": "5add91f519e39025708e54a7eb7a9fc5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Terms of Service"
+        },
+        "2/0/init/body/1/argument/11/1/1/3/5": {
+          "type": "element",
+          "hash": "9afa39bc47019ee6dec6c74b6273967c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        },
+        "2/0/init/body/1/argument/7/11/1": {
+          "type": "element",
+          "hash": "47149a2891e4a295480d765829dce2a0",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Connect With Us"
+        },
+        "2/0/init/body/1/argument/7/11/3/1-aria-label": {
+          "type": "attribute",
+          "hash": "ac8afe226a7424849c247e6a9d566f64",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Facebook"
+        },
+        "2/0/init/body/1/argument/7/11/3/3-aria-label": {
+          "type": "attribute",
+          "hash": "ba3d4aed69a50759b53a0b7c319a3ad9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Twitter"
+        },
+        "2/0/init/body/1/argument/7/11/3/5-aria-label": {
+          "type": "attribute",
+          "hash": "c9555810826c30d571ffae869a236494",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Instagram"
+        },
+        "2/0/init/body/1/argument/7/11/3/7-aria-label": {
+          "type": "attribute",
+          "hash": "8cbe02c3108a0dbe0586dbc18db04efe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "YouTube"
+        },
+        "2/0/init/body/1/argument/7/11/3/9-aria-label": {
+          "type": "attribute",
+          "hash": "e7f34943a0c2fb849db1839ff6ef5cb5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Email"
+        },
+        "2/0/init/body/1/argument/7/11/7": {
+          "type": "element",
+          "hash": "2dfffa9e460e3102fa18a55c21bd4dea",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:ArrowUp></element:ArrowUp> Back to Top"
+        },
+        "2/0/init/body/1/argument/7/3/1": {
+          "type": "element",
+          "hash": "0ea1f70f23c89250e3f40ff6f8aeea46",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Fast News"
+        },
+        "2/0/init/body/1/argument/7/3/3": {
+          "type": "element",
+          "hash": "6d7a27785d9203a28ddd447f81b8ae94",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your trusted source for breaking news, analysis, and insights from around the world. Stay informed. Stay ahead."
+        },
+        "2/0/init/body/1/argument/7/3/7/1-placeholder": {
+          "type": "attribute",
+          "hash": "39931962707c99b99a5a073ab579396b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter your email"
+        },
+        "2/0/init/body/1/argument/7/3/7/3": {
+          "type": "element",
+          "hash": "ff9df108bbcd5888b485e8d966857fe5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Subscribe"
+        },
+        "2/0/init/body/1/argument/7/7/1": {
+          "type": "element",
+          "hash": "08f01a139568423a460c7d664b2be95e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Quick Links"
+        },
+        "2/0/init/body/1/argument/7/7/3/1/1": {
+          "type": "element",
+          "hash": "62c85267479a0caec841c7c28b4820e7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:span></element:span> Home"
+        },
+        "2/0/init/body/1/argument/7/7/3/3/1": {
+          "type": "element",
+          "hash": "d5173e0c7dd33144f3c3cf01abb39f3c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:span></element:span> World"
+        },
+        "2/0/init/body/1/argument/7/7/3/5/1": {
+          "type": "element",
+          "hash": "f2a6fbfe7fb8861fe4e8e0d35bcc4dbd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:span></element:span> Business"
+        },
+        "2/0/init/body/1/argument/7/7/3/7/1": {
+          "type": "element",
+          "hash": "ce50379bb9a3cebb1494e51da1284ac3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:span></element:span> Sports"
+        },
+        "2/0/init/body/1/argument/7/7/3/9/1": {
+          "type": "element",
+          "hash": "ac0d0006f2fc8f050157570cc0e841eb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:span></element:span> Technology"
         }
       }
     },
@@ -250,6 +418,38 @@
           "skip": false,
           "overrides": {},
           "content": "Read more →"
+        },
+        "2/0/init/body/0/argument/7/15/1": {
+          "type": "element",
+          "hash": "66926b6290ca357f9544aa4f11b67b5a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Read more"
+        },
+        "2/0/init/body/0/argument/7/3/expression/right/3": {
+          "type": "element",
+          "hash": "eead935434728eb6b64f7c69ec9d7cdc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{item.readTime} read"
+        },
+        "3/0/init/body/0/argument/7/15/1": {
+          "type": "element",
+          "hash": "66926b6290ca357f9544aa4f11b67b5a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Read more"
+        },
+        "3/0/init/body/0/argument/7/3/expression/right/3": {
+          "type": "element",
+          "hash": "eead935434728eb6b64f7c69ec9d7cdc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{item.readTime} read"
         }
       }
     },
@@ -294,6 +494,142 @@
           "skip": false,
           "overrides": {},
           "content": "Subscribe"
+        },
+        "2/0/init/body/3/argument/9/11/1/3": {
+          "type": "element",
+          "hash": "3d9ec7f8b266d7477a7157a7546431ca",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Breaking News First"
+        },
+        "2/0/init/body/3/argument/9/11/3/3": {
+          "type": "element",
+          "hash": "dc2bb7851c5a0b9dc500762e5db529ec",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Daily Digest"
+        },
+        "2/0/init/body/3/argument/9/11/5/3": {
+          "type": "element",
+          "hash": "b6170629d8770de5b110477d888fd9f4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "50K+ Subscribers"
+        },
+        "2/0/init/body/3/argument/9/15/1/expression/alternate/3": {
+          "type": "element",
+          "hash": "3b096ee2400a386581449eec11675e2f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Successfully Subscribed!"
+        },
+        "2/0/init/body/3/argument/9/15/1/expression/alternate/5": {
+          "type": "element",
+          "hash": "4486ef1cd6b344975d76ef378e4d8d79",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Check your inbox for a confirmation email."
+        },
+        "2/0/init/body/3/argument/9/15/1/expression/consequent/1/1/3-placeholder": {
+          "type": "attribute",
+          "hash": "9bc008365ebe3e404e241c8ca876f56e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter your email address"
+        },
+        "2/0/init/body/3/argument/9/15/1/expression/consequent/1/3": {
+          "type": "element",
+          "hash": "7fc627fcd3109fa4e157cf82d376824a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Subscribe Now"
+        },
+        "2/0/init/body/3/argument/9/19": {
+          "type": "element",
+          "hash": "5bb3f5dd0dde6eb04eb7bdbf9ac0776e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "By subscribing, you agree to receive updates from Fast News. You can unsubscribe anytime. We respect your privacy. 🔒"
+        },
+        "2/0/init/body/3/argument/9/23/1/1": {
+          "type": "element",
+          "hash": "1dbecec81b67208b4293742482bd7efe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "50K+"
+        },
+        "2/0/init/body/3/argument/9/23/1/3": {
+          "type": "element",
+          "hash": "ecb7c8f38aea58adf9c546f135235cef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Active Readers"
+        },
+        "2/0/init/body/3/argument/9/23/5/1": {
+          "type": "element",
+          "hash": "5574eee83ead295147d3a9ae2e62bb8c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Daily"
+        },
+        "2/0/init/body/3/argument/9/23/5/3": {
+          "type": "element",
+          "hash": "c5f658a393f5d8d6e251a0fb5a0de394",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Updates"
+        },
+        "2/0/init/body/3/argument/9/23/9/1": {
+          "type": "element",
+          "hash": "6f003883aeec8ac02f9a42f834130f5a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "100%"
+        },
+        "2/0/init/body/3/argument/9/23/9/3": {
+          "type": "element",
+          "hash": "0326365539c004f6088656f692602078",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free"
+        },
+        "2/0/init/body/3/argument/9/3/1/3": {
+          "type": "element",
+          "hash": "b3f7fd254029ea8829d8ac94dca48b1d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "NEWSLETTER"
+        },
+        "2/0/init/body/3/argument/9/7/1": {
+          "type": "element",
+          "hash": "6acd8cd125e1511cf968560ec1007e86",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join the <element:span>Fast News</element:span> Community"
+        },
+        "2/0/init/body/3/argument/9/7/3": {
+          "type": "element",
+          "hash": "c5cb734e7664e4c8817e5ad0281e8225",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Stay ahead of the headlines! Subscribe to our newsletter and never miss the latest stories, breaking news, or insights from around the world."
         }
       }
     },
@@ -702,6 +1038,146 @@
           "skip": false,
           "overrides": {},
           "content": "Welcome to <element:span>Fast News</element:span>"
+        }
+      }
+    },
+    "pages/review/Review.tsx": {
+      "scopes": {
+        "3/0/init/body/6/argument/9/11/3/1/1": {
+          "type": "element",
+          "hash": "825f8b1c61f26ad00f9b6a0de4a9cfee",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Rating Distribution"
+        },
+        "3/0/init/body/6/argument/9/11/3/1/7/1": {
+          "type": "element",
+          "hash": "68036944cac55bc050379185e76fc4f1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "All Reviews"
+        },
+        "3/0/init/body/6/argument/9/11/3/1/7/3/expression/0/body": {
+          "type": "element",
+          "hash": "fe6bb0bffc6760f4f38d7f0dfc8df3f9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{rating} Stars Only"
+        },
+        "3/0/init/body/6/argument/9/11/7/1/expression/0/body/13/1/3": {
+          "type": "element",
+          "hash": "1678d9998a833288d0d93b5653b7cae5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Helpful ({review.likes})"
+        },
+        "3/0/init/body/6/argument/9/11/7/1/expression/0/body/13/3/3": {
+          "type": "element",
+          "hash": "37a07e1dbda9841da3feb16c9e1e63b5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Reply"
+        },
+        "3/0/init/body/6/argument/9/11/7/1/expression/0/body/3/3/1/3/expression/right": {
+          "type": "element",
+          "hash": "deb68ee7f8422a13008222bef94220f2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Verified"
+        },
+        "3/0/init/body/6/argument/9/15/1/1": {
+          "type": "element",
+          "hash": "eaf3978d423b032db5fadc8e50f9f54b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Share Your Experience"
+        },
+        "3/0/init/body/6/argument/9/15/1/3": {
+          "type": "element",
+          "hash": "d4140b21ea186a272e7dfb663075e86d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Have you tried Fast News? We'd love to hear your thoughts!"
+        },
+        "3/0/init/body/6/argument/9/15/1/5": {
+          "type": "element",
+          "hash": "082e994d501e06d5fbd21e9b5f01f34c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Write a Review"
+        },
+        "3/0/init/body/6/argument/9/3/1/3": {
+          "type": "element",
+          "hash": "17ff99bef9eb96198249eefae34b4b75",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "CUSTOMER REVIEWS"
+        },
+        "3/0/init/body/6/argument/9/3/3": {
+          "type": "element",
+          "hash": "3e8d498ed649c78ae5d6dfba79d2cd8b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "What Our Readers Say"
+        },
+        "3/0/init/body/6/argument/9/3/5": {
+          "type": "element",
+          "hash": "e1f8e3829934aff3c8cdf421f6d26415",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join thousands of satisfied readers who trust Fast News for their daily updates"
+        },
+        "3/0/init/body/6/argument/9/7/1/7": {
+          "type": "element",
+          "hash": "5426e1eea5a06f10103155f745c787e5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Average Rating"
+        },
+        "3/0/init/body/6/argument/9/7/3/3": {
+          "type": "element",
+          "hash": "31919405a03337b9fd3ba60251f8958a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{totalReviews}K+"
+        },
+        "3/0/init/body/6/argument/9/7/3/5": {
+          "type": "element",
+          "hash": "54440f44bfaeec807cb511a5abd36424",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Total Reviews"
+        },
+        "3/0/init/body/6/argument/9/7/5/3": {
+          "type": "element",
+          "hash": "3e5cc896c4f8ce4f6f1646ff9f428073",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "98%"
+        },
+        "3/0/init/body/6/argument/9/7/5/5": {
+          "type": "element",
+          "hash": "d44d22b60c51e0fe41dae7d492ee94c5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Recommended"
         }
       }
     }

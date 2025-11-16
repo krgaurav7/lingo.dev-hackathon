@@ -2,6 +2,7 @@ import { homeNewsData } from "../../data/homenews";
 import HomeNewsCard from "../../components/homeNewsCard"
 import JoinUs from "../../components/joinus/Joinus";
 import Homeland from "./homeland.tsx"
+import Reviews from "../../pages/review/Review.tsx"
 
 const HomeNews: React.FC = () => {
   return (
@@ -16,7 +17,7 @@ const HomeNews: React.FC = () => {
           <HomeNewsCard key={index} item={item} />
         ))}
       </div>
-
+      <Reviews />
       <JoinUs />
     </div>
   );
