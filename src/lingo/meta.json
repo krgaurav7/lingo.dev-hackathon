@@ -58,6 +58,94 @@
           "skip": false,
           "overrides": {},
           "content": "LOGIN"
+        },
+        "3/0/init/body/2/argument/1/1/3/1": {
+          "type": "element",
+          "hash": "e50e02db07e5cdf2340fef0a5fc3ffc3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Fast News"
+        },
+        "3/0/init/body/2/argument/1/1/7/1": {
+          "type": "element",
+          "hash": "be6d20e4bbe1f5a38aa022e5cb0cf2d4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:House></element:House> HOME"
+        },
+        "3/0/init/body/2/argument/1/1/7/3": {
+          "type": "element",
+          "hash": "fb825d9b60633b0e2256d218a0e75c54",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:Newspaper></element:Newspaper> NEWS"
+        },
+        "3/0/init/body/2/argument/1/1/7/5": {
+          "type": "element",
+          "hash": "eac4b021198419236d7a6411c191677d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "ABOUT"
+        },
+        "3/0/init/body/2/argument/1/1/7/7": {
+          "type": "element",
+          "hash": "240d3bb6314b629f6c58cdc296ca4cb3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "CONTACT"
+        },
+        "3/0/init/body/2/argument/1/1/7/9": {
+          "type": "element",
+          "hash": "83ebb6e8e2aee6f6e3f61e3a96826374",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "LOGIN"
+        },
+        "3/0/init/body/2/argument/5/1/1": {
+          "type": "element",
+          "hash": "75d34472ed5d38b88c708cb01ab46623",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:House></element:House> HOME"
+        },
+        "3/0/init/body/2/argument/5/1/3": {
+          "type": "element",
+          "hash": "dfbcc6f0662ff1904fa2ea846f0f45db",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:Newspaper></element:Newspaper> NEWS"
+        },
+        "3/0/init/body/2/argument/5/1/5": {
+          "type": "element",
+          "hash": "7e7d03f1ddafe68b842c132f1e5b2834",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "ABOUT"
+        },
+        "3/0/init/body/2/argument/5/1/7": {
+          "type": "element",
+          "hash": "7b58ef444a5b57afb0c6bccc63501157",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "CONTACT"
+        },
+        "3/0/init/body/2/argument/5/1/9": {
+          "type": "element",
+          "hash": "33969fa66074c28919a7f0200f64d10e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "LOGIN"
         }
       }
     },
@@ -379,6 +467,14 @@
           "overrides": {},
           "content": "A college professor and medical student, both from Jammu and Kashmir, were detained in Uttar Pradesh's Hapur and Kanpur, respectively, in connection with the November 10 Delhi blast, officials say"
         },
+        "3/0/init/body/0/argument": {
+          "type": "element",
+          "hash": "8b642febcee7706dd97b68b6d05cf78c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:div><element:div><element:div></element:div></element:div><element:div><element:div><element:span><element:span></element:span><element:span></element:span></element:span><element:span>LIVE NEWS</element:span></element:div><element:h1>Welcome to <element:span>Fast News</element:span></element:h1><element:p>Bringing you the latest updates from around the world 🌍</element:p><element:div><element:a>Explore News</element:a><element:a>Trending Stories</element:a></element:div><element:div><element:div><element:div>500+</element:div><element:div>Daily Articles</element:div></element:div><element:div><element:div>50K+</element:div><element:div>Active Readers</element:div></element:div><element:div><element:div>24/7</element:div><element:div>Live Updates</element:div></element:div><element:div><element:div>Global</element:div><element:div>Coverage</element:div></element:div></element:div></element:div><element:div><element:div><element:svg><element:path></element:path></element:svg></element:div></element:div></element:div> ////////////////////////////////////////////////<element:div><function:homeNewsData.map/></element:div><element:JoinUs></element:JoinUs>"
+        },
         "3/0/init/body/0/argument/3/1": {
           "type": "element",
           "hash": "14d4b1280dca59cff273df09cafa42d4",
@@ -394,6 +490,218 @@
           "skip": false,
           "overrides": {},
           "content": "Bringing you the latest updates from around the world 🌍"
+        },
+        "3/0/init/body/0/argument/3/7/11": {
+          "type": "element",
+          "hash": "f7fc64effe7f97ab9723400996e77194",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Bringing you the latest updates from around the world 🌍"
+        },
+        "3/0/init/body/0/argument/3/7/15/1": {
+          "type": "element",
+          "hash": "c28e69142a3e1b2b563dd8671efcb74f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Explore News"
+        },
+        "3/0/init/body/0/argument/3/7/15/3": {
+          "type": "element",
+          "hash": "57983d8be17f0cfcab37ecfd64fe4cd1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Trending Stories"
+        },
+        "3/0/init/body/0/argument/3/7/19/1/1": {
+          "type": "element",
+          "hash": "8764b1fa554b2ebe14fffec2c8c9452f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "500+"
+        },
+        "3/0/init/body/0/argument/3/7/19/1/3": {
+          "type": "element",
+          "hash": "1334549e53189f0b12a865cbc26713b6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Daily Articles"
+        },
+        "3/0/init/body/0/argument/3/7/19/3/1": {
+          "type": "element",
+          "hash": "1dbecec81b67208b4293742482bd7efe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "50K+"
+        },
+        "3/0/init/body/0/argument/3/7/19/3/3": {
+          "type": "element",
+          "hash": "ecb7c8f38aea58adf9c546f135235cef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Active Readers"
+        },
+        "3/0/init/body/0/argument/3/7/19/5/1": {
+          "type": "element",
+          "hash": "e7d5f033feb349d5fb8172f25ff7077d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "24/7"
+        },
+        "3/0/init/body/0/argument/3/7/19/5/3": {
+          "type": "element",
+          "hash": "96426ccd4261270818365784b3f4f4d9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Live Updates"
+        },
+        "3/0/init/body/0/argument/3/7/19/7/1": {
+          "type": "element",
+          "hash": "dcdf909580f77bd7aba15570065c325d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Global"
+        },
+        "3/0/init/body/0/argument/3/7/19/7/3": {
+          "type": "element",
+          "hash": "153db9cdd3b9f8151fae69a077edd759",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Coverage"
+        },
+        "3/0/init/body/0/argument/3/7/3/3": {
+          "type": "element",
+          "hash": "ed355d9911a00aac1c571e970eac39fc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "LIVE NEWS"
+        },
+        "3/0/init/body/0/argument/3/7/7": {
+          "type": "element",
+          "hash": "fab53345866ec76cf5a24091783b6537",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome to <element:span>Fast News</element:span>"
+        }
+      }
+    },
+    "pages/homenews/homeland.tsx": {
+      "scopes": {
+        "1/0/init/body/0/argument/1/7/11": {
+          "type": "element",
+          "hash": "f7fc64effe7f97ab9723400996e77194",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Bringing you the latest updates from around the world 🌍"
+        },
+        "1/0/init/body/0/argument/1/7/15/1": {
+          "type": "element",
+          "hash": "c28e69142a3e1b2b563dd8671efcb74f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Explore News"
+        },
+        "1/0/init/body/0/argument/1/7/15/3": {
+          "type": "element",
+          "hash": "57983d8be17f0cfcab37ecfd64fe4cd1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Trending Stories"
+        },
+        "1/0/init/body/0/argument/1/7/19/1/1": {
+          "type": "element",
+          "hash": "8764b1fa554b2ebe14fffec2c8c9452f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "500+"
+        },
+        "1/0/init/body/0/argument/1/7/19/1/3": {
+          "type": "element",
+          "hash": "1334549e53189f0b12a865cbc26713b6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Daily Articles"
+        },
+        "1/0/init/body/0/argument/1/7/19/3/1": {
+          "type": "element",
+          "hash": "1dbecec81b67208b4293742482bd7efe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "50K+"
+        },
+        "1/0/init/body/0/argument/1/7/19/3/3": {
+          "type": "element",
+          "hash": "ecb7c8f38aea58adf9c546f135235cef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Active Readers"
+        },
+        "1/0/init/body/0/argument/1/7/19/5/1": {
+          "type": "element",
+          "hash": "e7d5f033feb349d5fb8172f25ff7077d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "24/7"
+        },
+        "1/0/init/body/0/argument/1/7/19/5/3": {
+          "type": "element",
+          "hash": "96426ccd4261270818365784b3f4f4d9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Live Updates"
+        },
+        "1/0/init/body/0/argument/1/7/19/7/1": {
+          "type": "element",
+          "hash": "dcdf909580f77bd7aba15570065c325d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Global"
+        },
+        "1/0/init/body/0/argument/1/7/19/7/3": {
+          "type": "element",
+          "hash": "153db9cdd3b9f8151fae69a077edd759",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Coverage"
+        },
+        "1/0/init/body/0/argument/1/7/3/3": {
+          "type": "element",
+          "hash": "ed355d9911a00aac1c571e970eac39fc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "LIVE NEWS"
+        },
+        "1/0/init/body/0/argument/1/7/7": {
+          "type": "element",
+          "hash": "fab53345866ec76cf5a24091783b6537",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome to <element:span>Fast News</element:span>"
         }
       }
     }
