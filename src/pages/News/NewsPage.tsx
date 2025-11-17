@@ -3,6 +3,7 @@ import axios from "axios";
 import Newscard from "../../components/newscard/Newscard";
 import { Search, Filter, TrendingUp, ChevronLeft, ChevronRight, Loader2 } from "lucide-react";
 
+
 const NewsPage = () => {
   const [articles, setArticles] = useState<any[]>([]);
   const [page, setPage] = useState(1);
@@ -14,9 +15,7 @@ const NewsPage = () => {
   const fetchNews = async () => {
     setLoading(true);
     try {
-      const url = `https://newsapi.org/v2/everything?q=${searchQuery}&apiKey=${
-        import.meta.env.VITE_NEWS_API_KEY
-      }`;
+      const url = `https://newsapi.org/v2/everything?q=${searchQuery}&apiKey=${import.meta.env.VITE_NEWS_API_KEY}`;
 
       const response = await axios.get(url);
       setArticles(response.data.articles || []);

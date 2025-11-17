@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { fetchHomeNewsData } from "../../data/homenews";
+import { fetchHomeNewsData } from "../../api/homenews.tsx";
 import HomeNewsCard from "../../components/homeNewsCard";
 import JoinUs from "../../components/joinus/Joinus";
 import Homeland from "./homeland.tsx";

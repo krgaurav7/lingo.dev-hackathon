@@ -2,7 +2,7 @@ import axios from "axios";
 
 export const fetchHomeNewsData = async () => {
   try {
-    const url = `https://newsapi.org/v2/everything?q=sports&sortBy=publishedAt&pageSize=11&apiKey=${
+    const url = `https://newsapi.org/v2/everything?q=sports&sortBy=publishedAt&pageSize=10&apiKey=${
       import.meta.env.VITE_NEWS_API_KEY
     }`;
 
