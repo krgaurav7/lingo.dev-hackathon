@@ -419,6 +419,38 @@
           "overrides": {},
           "content": "Read more →"
         },
+        "1/0/init/body/0/argument/7/15/1": {
+          "type": "element",
+          "hash": "66926b6290ca357f9544aa4f11b67b5a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Read more"
+        },
+        "1/0/init/body/0/argument/7/3/expression/right/3": {
+          "type": "element",
+          "hash": "eead935434728eb6b64f7c69ec9d7cdc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{item.readTime} read"
+        },
+        "2/0/init/body/0/argument/5/15/1": {
+          "type": "element",
+          "hash": "66926b6290ca357f9544aa4f11b67b5a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Read more"
+        },
+        "2/0/init/body/0/argument/5/3/expression/right/3": {
+          "type": "element",
+          "hash": "eead935434728eb6b64f7c69ec9d7cdc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{item.readTime} read"
+        },
         "2/0/init/body/0/argument/7/15/1": {
           "type": "element",
           "hash": "66926b6290ca357f9544aa4f11b67b5a",
@@ -444,6 +476,38 @@
           "content": "Read more"
         },
         "3/0/init/body/0/argument/7/3/expression/right/3": {
+          "type": "element",
+          "hash": "eead935434728eb6b64f7c69ec9d7cdc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{item.readTime} read"
+        },
+        "4/0/init/body/0/argument/7/15/1": {
+          "type": "element",
+          "hash": "66926b6290ca357f9544aa4f11b67b5a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Read more"
+        },
+        "4/0/init/body/0/argument/7/3/expression/right/3": {
+          "type": "element",
+          "hash": "eead935434728eb6b64f7c69ec9d7cdc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{item.readTime} read"
+        },
+        "4/0/init/body/1/argument/7/15/1": {
+          "type": "element",
+          "hash": "66926b6290ca357f9544aa4f11b67b5a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Read more"
+        },
+        "4/0/init/body/1/argument/7/3/expression/right/3": {
           "type": "element",
           "hash": "eead935434728eb6b64f7c69ec9d7cdc",
           "context": "",
@@ -734,6 +798,118 @@
           "skip": false,
           "overrides": {},
           "content": "Loading news..."
+        },
+        "4/0/init/body/13/argument/9/11/expression/right/1": {
+          "type": "element",
+          "hash": "e13369c817c0af2afeab69379dee43e9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:ChevronLeft></element:ChevronLeft> Previous"
+        },
+        "4/0/init/body/13/argument/9/11/expression/right/7": {
+          "type": "element",
+          "hash": "f5eb2ed46772d1d5dfaf08b10ce125eb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Next<element:ChevronRight></element:ChevronRight>"
+        },
+        "4/0/init/body/13/argument/9/3/13/1/1/1/3-placeholder": {
+          "type": "attribute",
+          "hash": "0cb5cbe93524e0fb514e1643a0e80800",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Search news topics..."
+        },
+        "4/0/init/body/13/argument/9/3/13/1/1/3": {
+          "type": "element",
+          "hash": "64ca3ff36c43fe927c59d06e7e4eca76",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Search"
+        },
+        "4/0/init/body/13/argument/9/3/17/1/1": {
+          "type": "element",
+          "hash": "26b709b2bedb121763902156987c4d22",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Total Articles"
+        },
+        "4/0/init/body/13/argument/9/3/17/3/1": {
+          "type": "element",
+          "hash": "b989042679bc4eadd260c0a7b42ec853",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Current Page"
+        },
+        "4/0/init/body/13/argument/9/3/17/3/3": {
+          "type": "element",
+          "hash": "12ec59630a7d00d82d1b21a3ccf764b1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{page} / {totalPages}"
+        },
+        "4/0/init/body/13/argument/9/3/3/1/3": {
+          "type": "element",
+          "hash": "bc6bcde06b21ec0d6cfebe19280bcbaf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "TRENDING NEWS"
+        },
+        "4/0/init/body/13/argument/9/3/7": {
+          "type": "element",
+          "hash": "a6a54650dd41424c3d6822781beba9a8",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Blockchain <element:span>News</element:span>"
+        },
+        "4/0/init/body/13/argument/9/3/9": {
+          "type": "element",
+          "hash": "cff05a7703224188b0e19648de8a0f80",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Stay updated with the latest blockchain and cryptocurrency developments"
+        },
+        "4/0/init/body/13/argument/9/7/expression/consequent/3": {
+          "type": "element",
+          "hash": "f98bc23fb032bdcd8dd7082a8e42c029",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "No news available"
+        },
+        "4/0/init/body/13/argument/9/7/expression/consequent/5": {
+          "type": "element",
+          "hash": "a93f0d2b059483a536253d1b752c9f95",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Try adjusting your search query"
+        },
+        "4/0/init/body/8/consequent/0/argument/5/3": {
+          "type": "element",
+          "hash": "be2cc23ad38696ea56e814068638cfa1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Loading news..."
+        },
+        "4/0/init/body/8/consequent/0/argument/5/5": {
+          "type": "element",
+          "hash": "e6edeeb4a93b58a96e9ee0a54b13a384",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Fetching the latest articles for you"
         }
       }
     },
@@ -930,6 +1106,22 @@
           "skip": false,
           "overrides": {},
           "content": "Welcome to <element:span>Fast News</element:span>"
+        },
+        "6/0/init/body/4/argument/13/expression/right/3": {
+          "type": "element",
+          "hash": "711e44ee79387fc2e0ff716fc7594dee",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Retry"
+        },
+        "6/0/init/body/4/argument/21/expression/right/1": {
+          "type": "element",
+          "hash": "abcd6bd72a83d4b7b4533c363dea98f7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "No news articles found."
         }
       }
     },

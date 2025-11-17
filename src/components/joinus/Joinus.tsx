@@ -17,7 +17,7 @@ const JoinUs: React.FC = () => {
   };
 
   return (
-    <section className="relative py-20 px-6 w-full h-screen overflow-hidden">
+    <section className="relative py-20 px-6 w-full h-screen overflow-hidden mb-0 pb-5">
       {/* Animated Background */}
       <div className="absolute inset-0 bg-linear-to-br from-blue-600 via-purple-600 to-pink-600"></div>
       

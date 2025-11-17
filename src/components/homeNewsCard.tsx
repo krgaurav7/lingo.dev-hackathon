@@ -1,6 +1,5 @@
 import { ExternalLink, Clock, ArrowRight } from "lucide-react";
 
-
 type Props = {
   item: {
     title: string;
@@ -18,8 +17,7 @@ const HomeNewsCard = ({ item }: Props) => {
       className="group relative bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg hover:shadow-2xl overflow-hidden cursor-pointer transition-all duration-300 hover:scale-[1.02] border border-gray-100"
       onClick={() => window.open(item.url, "_blank")}
     >
-      {/* Image Container with Overlay */}
-      <div className="relative h-[200px] overflow-hidden">
+      <div className="relative h-[300px] overflow-hidden">
         <img
           src={item.image}
           alt={item.title}

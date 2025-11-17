@@ -49,39 +49,6 @@ const Reviews: React.FC = () => {
       content: "The variety of news categories is impressive. I appreciate the unbiased reporting and the depth of analysis in feature articles.",
       likes: 29,
       verified: false
-    },
-    {
-      id: 4,
-      name: "David Park",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=David",
-      rating: 5,
-      date: "1 week ago",
-      title: "Professional journalism at its finest",
-      content: "Fast News has become my go-to source for world events. The investigative pieces are thorough and the breaking news coverage is unmatched.",
-      likes: 51,
-      verified: true
-    },
-    {
-      id: 5,
-      name: "Lisa Anderson",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Lisa",
-      rating: 4,
-      date: "2 weeks ago",
-      title: "Reliable and trustworthy",
-      content: "In a world of misinformation, Fast News stands out for its commitment to factual reporting. The subscription is worth every penny.",
-      likes: 33,
-      verified: true
-    },
-    {
-      id: 6,
-      name: "James Wilson",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=James",
-      rating: 5,
-      date: "3 weeks ago",
-      title: "Exceeded my expectations",
-      content: "The quality of journalism here is exceptional. I love the in-depth analysis and the variety of perspectives presented.",
-      likes: 45,
-      verified: false
     }
   ];
 
