@@ -15,7 +15,7 @@ const NewsPage = () => {
   const fetchNews = async () => {
     setLoading(true);
     try {
-      const url = `https://newsapi.org/v2/everything?q=${searchQuery}&apiKey=${import.meta.env.VITE_NEWS_API_KEY}`;
+      const url = `https://newsapi.org/v2/everything?q=${searchQuery}&apiKey=${import.meta.env.VITE_VERCEL_NEWS_API_KEY}`;
 
       const response = await axios.get(url);
       setArticles(response.data.articles || []);
